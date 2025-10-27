@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="702c00f2-2906-4a1d-89ec-6355187efb73" name="Changes" comment="" />
+    <list default="true" id="4ddeb6c6-9449-468f-b960-b68f34c11509" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/DocumentEditor/src/GOOD_DESIGN/DocumentEditorClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DocumentEditor/src/standardUml.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,69 +24,73 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;Akash-Adak&quot;
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Akash-Adak"
   }
-}</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Akash-Adak/SystemDesign-LLD.git&quot;,
-    &quot;accountId&quot;: &quot;e1dbb41f-a6c8-4aec-ac29-3f4241001224&quot;
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Akash-Adak/SystemDesign-LLD.git",
+    "accountId": "e1dbb41f-a6c8-4aec-ac29-3f4241001224"
   }
-}</component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 3
-}</component>
-  <component name="ProjectId" id="34acOK3pCT54TCONa2eUVoChzn4" />
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="34dEqFOHEHPS0V9ePZgO1pNBDx7" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application.LSPFollowedWrongly.executor": "Run",
+    "Application.DocumentEditorClient.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Desktop/SystemDesign",
-    "project.structure.last.edited": "Modules",
+    "last_opened_file_path": "D:/Desktop/SystemDesign/LLD/DocumentEditor/src",
+    "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Desktop\SystemDesign\LLD\SOLID\LSP_rules\src" />
-      <recent name="D:\Desktop\SystemDesign\LLD\SOLID\LSP_rules\src\MethodRules" />
-      <recent name="D:\Desktop\SystemDesign\LLD\SOLID" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Desktop\SystemDesign\LLD\DocumentEditor\src" />
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="LSPFollowedWrongly" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LSPFollowedWrongly" />
-      <module name="LSP" />
+    <configuration name="DocumentEditorClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BAD_DESIGN.DocumentEditorClient" />
+      <module name="DocumentEditor" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BAD_DESIGN.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LSPFollowedWrongly" />
+        <item itemvalue="Application.DocumentEditorClient" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="702c00f2-2906-4a1d-89ec-6355187efb73" name="Changes" comment="" />
-      <created>1761455090167</created>
+      <changelist id="4ddeb6c6-9449-468f-b960-b68f34c11509" name="Changes" comment="" />
+      <created>1761535240000</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1761455090167</updated>
+      <updated>1761535240000</updated>
     </task>
     <servers />
   </component>
