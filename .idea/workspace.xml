@@ -5,9 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4ddeb6c6-9449-468f-b960-b68f34c11509" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/DocumentEditor/src/GOOD_DESIGN/DocumentEditorClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DocumentEditor/src/standardUml.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DocumentEditor/BAD_DESIGN/DocumentEditor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DocumentEditor/BAD_DESIGN/DocumentEditorClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DocumentEditor/GOOD_DESIGN/DBStorage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DocumentEditor/GOOD_DESIGN/Document.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DocumentEditor/GOOD_DESIGN/DocumentEditor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DocumentEditor/GOOD_DESIGN/DocumentEditorClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DocumentEditor/GOOD_DESIGN/DocumentElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DocumentEditor/GOOD_DESIGN/FileStorage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DocumentEditor/GOOD_DESIGN/ImageElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DocumentEditor/GOOD_DESIGN/NewLineElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DocumentEditor/GOOD_DESIGN/Persistence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DocumentEditor/GOOD_DESIGN/TabSpaceElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DocumentEditor/GOOD_DESIGN/TextElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DocumentEditor/standardUml.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,46 +36,46 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Akash-Adak"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Akash-Adak&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Akash-Adak/SystemDesign-LLD.git",
-    "accountId": "e1dbb41f-a6c8-4aec-ac29-3f4241001224"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Akash-Adak/SystemDesign-LLD.git&quot;,
+    &quot;accountId&quot;: &quot;e1dbb41f-a6c8-4aec-ac29-3f4241001224&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 3
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="34dEqFOHEHPS0V9ePZgO1pNBDx7" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.DocumentEditorClient.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Desktop/SystemDesign/LLD/DocumentEditor/src",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.DocumentEditorClient.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Desktop/SystemDesign/LLD/DocumentEditor/src&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Desktop\SystemDesign\LLD\DocumentEditor\src" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.StrategyDesignPattern">
     <configuration name="DocumentEditorClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BAD_DESIGN.DocumentEditorClient" />
       <module name="DocumentEditor" />
@@ -77,8 +89,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StrategyDesignPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StrategyDesignPattern" />
+      <module name="StrategyDesignPattern" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StrategyDesignPattern" />
         <item itemvalue="Application.DocumentEditorClient" />
       </list>
     </recent_temporary>

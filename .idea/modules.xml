@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/SOLID/LSP_rules/LSP_rules.iml" filepath="$PROJECT_DIR$/SOLID/LSP_rules/LSP_rules.iml" />
       <module fileurl="file://$PROJECT_DIR$/SOLID/OCP/OCP.iml" filepath="$PROJECT_DIR$/SOLID/OCP/OCP.iml" />
       <module fileurl="file://$PROJECT_DIR$/SOLID/SRP/SRP.iml" filepath="$PROJECT_DIR$/SOLID/SRP/SRP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StrategyDesignPattern/StrategyDesignPattern.iml" filepath="$PROJECT_DIR$/StrategyDesignPattern/StrategyDesignPattern.iml" />
     </modules>
   </component>
 </project>
