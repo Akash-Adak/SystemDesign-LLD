@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SOLID/DIP/DIP.iml" filepath="$PROJECT_DIR$/SOLID/DIP/DIP.iml" />
       <module fileurl="file://$PROJECT_DIR$/DocumentEditor/DocumentEditor.iml" filepath="$PROJECT_DIR$/DocumentEditor/DocumentEditor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FactoryDesignPattern/FactoryDesignPattern.iml" filepath="$PROJECT_DIR$/FactoryDesignPattern/FactoryDesignPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/SOLID/ISP/ISP.iml" filepath="$PROJECT_DIR$/SOLID/ISP/ISP.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/LLD.iml" filepath="$PROJECT_DIR$/.idea/LLD.iml" />
       <module fileurl="file://$PROJECT_DIR$/SOLID/LSP/LSP.iml" filepath="$PROJECT_DIR$/SOLID/LSP/LSP.iml" />
